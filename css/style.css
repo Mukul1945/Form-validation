@@ -1,0 +1,49 @@
+.header h2{
+	text-align: center;
+	color: slateblue;
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 27px;
+}
+.form{
+	background-color: lightskyblue;
+	/*padding: 15px;*/
+	color: white;
+	padding: 25px;
+}
+.form label{
+	width: 145px;
+}
+.form input,textarea,select{
+	padding: 0px;
+	/*border-radius: 5px;*/
+	color: black;
+	margin: 3px;
+}
+table{
+	border: 1px solid black;
+}
+table td{
+	padding: 3px;
+	text-align: center;
+}
+.sbmt{
+	text-align: center;
+}
+.sbmt button{
+	padding: 5px;
+	padding-left: 40px;
+	padding-right: 40px;
+	color: black;
+	background-color: skyblue;
+	font-weight: bold;
+}
+.sbmt input{
+	padding: 5px;
+	padding-left: 40px;
+	padding-right: 40px;
+	color: black;
+	background-color: skyblue;
+	font-weight: bold;
+}
